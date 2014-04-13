@@ -11,6 +11,7 @@
   
     <h2>WHEN WILL DUSTIN GRADUATE?</h2>
     <hr style="background:#BDC3C7; border:0; height:2px" />
+    
     <div id="content" class="row-fluid">
       <div class="span12 main">
         <h3>Dustin has completed 30% of his BSIT</h3>
@@ -21,8 +22,8 @@
       <div ng-repeat="course in courses" class="span6">
         <div>{{ course.class }}
           <div class="progress">
-            <div class="bar" style="width: {{ course.percent | percentage}};">
-              {{ course.percent | percentage}}
+            <div class="bar" style="width: {{ course.percent }}%;">
+              {{ course.percent }}%
             </div>
           </div>
         </div>
