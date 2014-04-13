@@ -1,5 +1,49 @@
 [
     {
+        "class": "Software Development Fundamentals",
+        "percent": "1"
+    },
+    {
+        "class": "IT Fundamentals I",
+        "percent": "1"
+    },
+    {
+        "class": "Communications Foundations",
+        "percent": "1"
+    },
+    {
+        "class": "Web Development Fundamentals",
+        "percent": "1"
+    },
+    {
+        "class": "Reasoning and Problem Solving",
+        "percent": "1"
+    },
+    {
+        "class": "Language and Communication: Essay",
+        "percent": "1"
+    },
+    {
+        "class": "Foundations of College Mathematics",
+        "percent": "1"
+    },
+    {
+        "class": "Language and Communication: Research",
+        "percent": "1"
+    },
+    {
+        "class": "Language and Communication: Presentation",
+        "percent": "1"
+    },
+    {
+        "class": "IT Fundamentals II",
+        "percent": "1"
+    },
+    {
+        "class": "IT Fundamentals III",
+        "percent": "1"
+    },
+    {
         "class": "Finite Mathematics",
         "percent": "1"
     },
@@ -10,5 +54,101 @@
     {
         "class": "Windows OS Fundamentals",
         "percent": ".21 "
+    },
+    {
+        "class": "Web Technologies",
+        "percent": "0"
+    },
+    {
+        "class": "Database I",
+        "percent": "0"
+    },
+    {
+        "class": "College Algebra",
+        "percent": "0"
+    },
+    {
+        "class": "Integrated Natural Science",
+        "percent": "0"
+    },
+    {
+        "class": "Integrated Natural Science Applications",
+        "percent": "0"
+    },
+    {
+        "class": "Web Programming",
+        "percent": "0"
+    },
+    {
+        "class": "Windows Server Admin Fundamentals",
+        "percent": "0"
+    },
+    {
+        "class": "Network Fundamentals",
+        "percent": "0"
+    },
+    {
+        "class": "Networks",
+        "percent": "0"
+    },
+    {
+        "class": "Quantitative Literacy: Quantitative Problem Solving and Applications",
+        "percent": "0"
+    },
+    {
+        "class": "Security Fundamentals",
+        "percent": "0"
+    },
+    {
+        "class": "Security",
+        "percent": "0"
+    },
+    {
+        "class": "Organizational Behavior and Leadership",
+        "percent": "0"
+    },
+    {
+        "class": "Literature, Arts and the Humanities",
+        "percent": "0"
+    },
+    {
+        "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
+        "percent": "0"
+    },
+    {
+        "class": "Geography",
+        "percent": "0"
+    },
+    {
+        "class": "Introduction to Programming",
+        "percent": "0"
+    },
+    {
+        "class": "Database Fundamentals",
+        "percent": "0"
+    },
+    {
+        "class": "Object Oriented Design and Development",
+        "percent": "0"
+    },
+    {
+        "class": "Project Management",
+        "percent": "0"
+    },
+    {
+        "class": "Software I",
+        "percent": "0"
+    },
+    {
+        "class": "Software II",
+        "percent": "0"
+    },
+    {
+        "class": "Technical Writing",
+        "percent": "0"
+    },
+    {
+        "class": "IT - Software Capstone Written Project",
+        "percent": "0"
     }
 ]
