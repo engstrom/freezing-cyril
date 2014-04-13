@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html ng-app="progressApp">
+<head>
+    <title>Progress</title>
+    <link href="bootstrap.css" rel="stylesheet" type='text/css'>
+    <script type="text/javascript" src="angular.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</head>
+<body>
+  <div class=container>
+  
+    <h2>WHEN WILL DUSTIN GRADUATE?</h2>
+    <hr style="background:#BDC3C7; border:0; height:2px" />
+    <div id="content" class="row-fluid">
+      <div class="span12 main">
+        <h3>Dustin has completed 30% of his BSIT</h3>
+      </div>
+    </div>
+
+    <div ng-controller="ProgressController">
+      <div ng-repeat="course in courses" class="span6">
+        <div>{{ course.class }}
+          <div class="progress">
+            <div class="bar" style="width: {{ course.percent | percentage}};">
+              {{ course.percent | percentage}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
