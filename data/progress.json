@@ -61,7 +61,11 @@
     },
     {
         "class": "Database I",
-        "percent": "87"
+        "percent": "100"
+    },
+    {
+        "class": "Database Fundamentals",
+        "percent": "100"
     },
     {
         "class": "College Algebra",
@@ -121,10 +125,6 @@
     },
     {
         "class": "Introduction to Programming",
-        "percent": "0"
-    },
-    {
-        "class": "Database Fundamentals",
         "percent": "0"
     },
     {
