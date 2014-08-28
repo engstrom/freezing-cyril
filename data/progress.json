@@ -69,7 +69,11 @@
     },
     {
         "class": "College Algebra",
-        "percent": "85"
+        "percent": "100"
+    },
+    {
+        "class": "Geography",
+        "percent": "10"
     },
     {
         "class": "Integrated Natural Science",
@@ -117,10 +121,6 @@
     },
     {
         "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
-        "percent": "0"
-    },
-    {
-        "class": "Geography",
         "percent": "0"
     },
     {
