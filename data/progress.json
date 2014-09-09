@@ -73,7 +73,15 @@
     },
     {
         "class": "Geography",
-        "percent": "75"
+        "percent": "100"
+    },
+    {
+        "class": "Security",
+        "percent": "0"
+    },
+    {
+        "class": "Security Fundamentals",
+        "percent": "0"
     },
     {
         "class": "Integrated Natural Science",
@@ -101,14 +109,6 @@
     },
     {
         "class": "Quantitative Literacy: Quantitative Problem Solving and Applications",
-        "percent": "0"
-    },
-    {
-        "class": "Security Fundamentals",
-        "percent": "0"
-    },
-    {
-        "class": "Security",
         "percent": "0"
     },
     {
