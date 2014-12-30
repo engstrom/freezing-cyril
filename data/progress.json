@@ -77,10 +77,18 @@
     },
     {
         "class": "Security",
-        "percent": "5"
+        "percent": "35"
     },
     {
         "class": "Security Fundamentals",
+        "percent": "0"
+    },
+    {
+        "class": "Literature, Arts and the Humanities",
+        "percent": "21"
+    },
+    {
+        "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
         "percent": "0"
     },
     {
@@ -105,14 +113,6 @@
     },
     {
         "class": "Organizational Behavior and Leadership",
-        "percent": "0"
-    },
-    {
-        "class": "Literature, Arts and the Humanities",
-        "percent": "0"
-    },
-    {
-        "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
         "percent": "0"
     },
     {
