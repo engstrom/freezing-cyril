@@ -76,19 +76,23 @@
         "percent": "100"
     },
     {
+        "class": "Literature, Arts and the Humanities",
+        "percent": "100"
+    },
+    {
+        "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
+        "percent": "17"
+    },
+    {
+        "class": "Networks",
+        "percent": "0"
+    },
+    {
         "class": "Security",
         "percent": "35"
     },
     {
         "class": "Security Fundamentals",
-        "percent": "0"
-    },
-    {
-        "class": "Literature, Arts and the Humanities",
-        "percent": "21"
-    },
-    {
-        "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
         "percent": "0"
     },
     {
@@ -101,10 +105,6 @@
     },
     {
         "class": "Web Programming",
-        "percent": "0"
-    },
-    {
-        "class": "Networks",
         "percent": "0"
     },
     {
