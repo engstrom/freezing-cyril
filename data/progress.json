@@ -81,7 +81,23 @@
     },
     {
         "class": "Literature, Arts and the Humanities: Analysis and Interpretation",
-        "percent": "17"
+        "percent": "100"
+    },
+    {
+        "class": "Software I",
+        "percent": "0"
+    },
+    {
+        "class": "Software II",
+        "percent": "0"
+    },
+    {
+        "class": "Organizational Behavior and Leadership",
+        "percent": "0"
+    },
+    {
+        "class": "Web Programming",
+        "percent": "0"
     },
     {
         "class": "Networks",
@@ -102,19 +118,7 @@
     {
         "class": "Integrated Natural Science Applications",
         "percent": "0"
-    },
-    {
-        "class": "Web Programming",
-        "percent": "0"
-    },
-    {
-        "class": "Quantitative Literacy: Quantitative Problem Solving and Applications",
-        "percent": "0"
-    },
-    {
-        "class": "Organizational Behavior and Leadership",
-        "percent": "0"
-    },
+    },,
     {
         "class": "Introduction to Programming",
         "percent": "0"
@@ -125,14 +129,6 @@
     },
     {
         "class": "Project Management",
-        "percent": "0"
-    },
-    {
-        "class": "Software I",
-        "percent": "0"
-    },
-    {
-        "class": "Software II",
         "percent": "0"
     },
     {
