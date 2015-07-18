@@ -92,6 +92,10 @@
         "percent": "100"
     },
     {
+        "class": "Project Management",
+        "percent": "44"
+    },
+    {
         "class": "Organizational Behavior and Leadership",
         "percent": "0"
     },
@@ -125,10 +129,6 @@
     },
     {
         "class": "Object Oriented Design and Development",
-        "percent": "0"
-    },
-    {
-        "class": "Project Management",
         "percent": "0"
     },
     {
