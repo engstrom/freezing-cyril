@@ -92,8 +92,16 @@
         "percent": "100"
     },
     {
+        "class": "Networks",
+        "percent": "100"
+    },
+    {
+        "class": "Security",
+        "percent": "35"
+    },
+    {
         "class": "Project Management",
-        "percent": "56"
+        "percent": "100"
     },
     {
         "class": "Organizational Behavior and Leadership",
@@ -102,14 +110,6 @@
     {
         "class": "Web Programming",
         "percent": "0"
-    },
-    {
-        "class": "Networks",
-        "percent": "100"
-    },
-    {
-        "class": "Security",
-        "percent": "35"
     },
     {
         "class": "Security Fundamentals",
