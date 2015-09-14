@@ -120,7 +120,7 @@
         "percent": "0"
     },
     {
-        "class": "Integrated Natural Science Applications",
+        "class": "Introduction to Physics",
         "percent": "0"
     },
     {
@@ -128,7 +128,15 @@
         "percent": "0"
     },
     {
-        "class": "Object Oriented Design and Development",
+        "class": "Project in Introduction to Programming",
+        "percent": "0"
+    },
+    {
+        "class": "Introduction to Object-Oriented Design and Development",
+        "percent": "0"
+    },
+    {
+        "class": "Project in Introduction to Object-Oriented Design and Development",
         "percent": "0"
     },
     {
