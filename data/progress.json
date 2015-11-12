@@ -97,11 +97,27 @@
     },
     {
         "class": "Security",
-        "percent": "35"
+        "percent": "100"
     },
     {
         "class": "Project Management",
         "percent": "100"
+    },
+    {
+        "class": "Introduction to Programming",
+        "percent": "0"
+    },
+    {
+        "class": "Project in Introduction to Programming",
+        "percent": "0"
+    },
+    {
+        "class": "Introduction to Object-Oriented Design and Development",
+        "percent": "0"
+    },
+    {
+        "class": "Project in Introduction to Object-Oriented Design and Development",
+        "percent": "0"
     },
     {
         "class": "Organizational Behavior and Leadership",
@@ -121,22 +137,6 @@
     },
     {
         "class": "Introduction to Physics",
-        "percent": "0"
-    },
-    {
-        "class": "Introduction to Programming",
-        "percent": "0"
-    },
-    {
-        "class": "Project in Introduction to Programming",
-        "percent": "0"
-    },
-    {
-        "class": "Introduction to Object-Oriented Design and Development",
-        "percent": "0"
-    },
-    {
-        "class": "Project in Introduction to Object-Oriented Design and Development",
         "percent": "0"
     },
     {
