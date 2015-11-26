@@ -96,6 +96,10 @@
         "percent": "100"
     },
     {
+        "class": "Security Fundamentals",
+        "percent": "100"
+    },
+    {
         "class": "Security",
         "percent": "100"
     },
@@ -125,10 +129,6 @@
     },
     {
         "class": "Web Programming",
-        "percent": "0"
-    },
-    {
-        "class": "Security Fundamentals",
         "percent": "0"
     },
     {
