@@ -105,11 +105,11 @@
     },
     {
         "class": "Introduction to Programming",
-        "percent": "0"
+        "percent": "50"
     },
     {
         "class": "Project in Introduction to Programming",
-        "percent": "41"
+        "percent": "100"
     },
     {
         "class": "Introduction to Object-Oriented Design and Development",
@@ -117,7 +117,7 @@
     },
     {
         "class": "Project in Introduction to Object-Oriented Design and Development",
-        "percent": "0"
+        "percent": "20"
     },
     {
         "class": "Organizational Behavior and Leadership",
